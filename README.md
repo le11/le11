@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello!
+
+Here you'll find mostly Node and ReactJs projects that I'm working on, what can I say, I love the web (also learning react native as well 😄)
+
+## 📫 How to reach me: 
+
+#### E-mail: leticia.machado50@gmail.com
+#### Skype: leticia.machado99
 
 <!--
 **le11/le11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
