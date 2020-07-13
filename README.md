@@ -7,6 +7,8 @@ Here you'll find mostly Node and ReactJs projects that I'm working on, what can 
 #### E-mail: leticia.machado50@gmail.com
 #### Skype: leticia.machado99
 
+
+[![HitCount](http://hits.dwyl.com/https://githubcom/le11/https://githubcom/le11/le11.svg)](http://hits.dwyl.com/https://githubcom/le11/https://githubcom/le11/le11)
 <!--
 **le11/le11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
