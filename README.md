@@ -1,6 +1,6 @@
 ### Hello!
 
-Here you'll find mostly Node and ReactJs projects that I'm working on, what can I say, I love the web (also learning react native as well 😄)
+Here you'll find mostly backend NodeJs projects that I'm working on, and also ReactJs.
 
 ## 📫 How to reach me: 
 
