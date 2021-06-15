@@ -6,19 +6,16 @@
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ## 📫 How to reach me: 
 
 #### E-mail: leticia.machado50@gmail.com
-#### Skype: leticia.machado99
 
 
-
-
-
-[![HitCount](http://hits.dwyl.com/https://githubcom/le11/https://githubcom/le11/le11.svg)](http://hits.dwyl.com/https://githubcom/le11/https://githubcom/le11/le11)
 <!--
+[![HitCount](http://hits.dwyl.com/https://githubcom/le11/https://githubcom/le11/le11.svg)](http://hits.dwyl.com/https://githubcom/le11/https://githubcom/le11/le11)
 **le11/le11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
