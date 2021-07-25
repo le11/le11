@@ -1,6 +1,12 @@
-### Hello!
+# Letícia Machado
 
-### My Technologies
+Currently working as a Software Developer, always learning new technologies.
+
+[![Github Badge](https://img.shields.io/github/followers/le11?label=Leticia%20Machado&style=social)](https://github.com/le11)
+[![Linkedin Badge](https://img.shields.io/badge/-Leticia%20Machado-ff424c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iego-schell-fernandes/)](https://www.linkedin.com/in/leticiamachado11/) 
+[![Gmail Badge](https://img.shields.io/badge/-leticia.machado50@gmail.com-ff424c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leticia.machado50@gmail.com)](mailto:leticia.machado50@gmail.com)
+
+### My Technologies:
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -8,20 +14,13 @@
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+#### Databases
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
+#### Cloud
 ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-## 📫 How to reach me: 
-
-#### E-mail: leticia.machado50@gmail.com
-
 
 <!--
 [![HitCount](http://hits.dwyl.com/https://githubcom/le11/https://githubcom/le11/le11.svg)](http://hits.dwyl.com/https://githubcom/le11/https://githubcom/le11/le11)
